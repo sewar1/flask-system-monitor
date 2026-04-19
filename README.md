@@ -25,6 +25,22 @@ A real-time system monitoring dashboard built with Flask and psutil, featuring l
 
 ---
 
+
+## 🧩 How It Works
+
+- Backend uses **psutil** to collect system metrics
+- Flask exposes an API endpoint: `/api/metrics`
+- Frontend fetches data using JavaScript (Fetch API)
+- Charts update dynamically using Chart.js
+
+---
+
+## 🌐 Usage
+
+Open your browser: http://127.0.0.1:5000
+
+---
+
 ## 📊 Dashboard Preview
 
 ## 📸 Screenshots
@@ -35,6 +51,26 @@ A real-time system monitoring dashboard built with Flask and psutil, featuring l
 ### Dashboard View 2
 ![Dashboard](screenshot_Monitor2.png)
 
+---
+
+## 💡 Future Improvements
+
+- 🚨 Alert system (Email / Telegram)
+- 🖥 Multi-machine monitoring
+- 🐳 Docker containerization
+- 🔐 Authentication & user roles
+
+---
+
+## 👨‍💻 Author
+
+Built as a hands-on DevOps learning project to practice:
+
+- System monitoring
+- Backend API design
+- Real-time dashboards
+
+---
 ## ⚙️ Installation
 
 ```bash
