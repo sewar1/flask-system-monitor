@@ -27,9 +27,13 @@ A real-time system monitoring dashboard built with Flask and psutil, featuring l
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](screenshot.png)
+## 📸 Screenshots
 
----
+### Dashboard View 1
+![Dashboard](screenshot_Monitor1.png)
+
+### Dashboard View 2
+![Dashboard](screenshot_Monitor2.png)
 
 ## ⚙️ Installation
 
